@@ -1,0 +1,20 @@
+.btn {
+    .login-box button.login {
+            width: 100%;
+            padding: 14px;
+            background-color: #1877f2;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            font-size: 20px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+}
+
+
+
+.btn:hover {
+    background-color: #34c98d;
+    color: #1212123e;
+}
